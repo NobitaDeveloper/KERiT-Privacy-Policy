@@ -44,4 +44,4 @@
 
 
 ## A warning will be announced in the support server 3 days prior to policy changes.
-#### **Last Updated:**  `22 November, 2022`
+#### **Last Updated:**  `23 November, 2022`
